@@ -1,0 +1,39 @@
+/* fix navbar overlapping */
+body { padding-top: 70px; }
+
+/*
+.social a {
+  width: 36px;
+  height: 36px;
+  display: inline-block;
+  border-radius: 50%;
+  background-clip: padding-box;
+  text-align: center;
+}
+
+.social a .svg-inline--fa {
+  font-size: 20px;
+  margin-top: 8px;
+}
+
+.social a:hover {
+  background: #778492;
+}
+
+
+*/
+
+.border-circle {
+  border-radius: 50%;
+}
+
+.profile-user-img {
+  border: 1px solid #adb5bd;
+  margin: 0 auto;
+  padding: 3px;
+}
+
+.section-title {
+  font-size: 1.75rem;
+
+}
